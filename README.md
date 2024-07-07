@@ -2,7 +2,7 @@
 
 Full Stack Engineer with 5+ years of experience in software delivery. Expert in JavaScript, TypeScript, React, and Node.js. Experienced in end-to-end product delivery, from gathering requirements to development, testing, and deployment. 
 
-My career path has focused on building scalable, accessible and user-friendly web applications. I've consistently delivered projects that prioritise performance and security. I'm particularly interested in System Design and Web Performance.
+My career path has been focused on building scalable, accessible and user-friendly web applications. I've consistently delivered projects that prioritise performance and security. I'm particularly interested in System Design and Web Performance.
 
 Outside of work, I enjoy spending time in nature through hiking or biking. I'm also an avid reader. Whether you want to discuss system design trade-offs, share a hiking or book recommendation, or just say hello, feel free to reach out.
 
