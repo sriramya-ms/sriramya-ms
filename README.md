@@ -8,7 +8,7 @@ Outside of work, I enjoy spending time in nature through hiking or biking. I'm a
 
 Programming Languages: JavaScript, TypeScript, Python, SQL
 
-Technologies & Tools: React, React Native, NextJs, Node.js, HTML/CSS, Docker, Git, CI/CD, Jest, PostgreSQL, MongoDB, Agile, Scrum, TDD, Webpack, Babel, OAuth2, JWT, RESTful APIs, Jenkins, MySQL, JIRA
+Technologies & Tools: React, React Native, NextJs, Node.js, HTML/CSS, Docker, Git, CI/CD, Jest, RTL, Cypress, PostgreSQL, MongoDB, Agile, Scrum, TDD, Webpack, Babel, OAuth2, JWT, RESTful APIs, Jenkins, MySQL, JIRA
 
 Cloud: AWS, AWS Lambda, AWS S3, AWS SNS
 
