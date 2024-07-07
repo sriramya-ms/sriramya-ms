@@ -1,16 +1,17 @@
-## Hi there 👋
+## About me
 
-<!--
-**sriramya-ms/sriramya-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer with 5+ years of experience in software delivery. Expert in JavaScript, TypeScript, React, and Node.js. Experienced in end-to-end product delivery, from gathering requirements to development, testing, and deployment. 
 
-Here are some ideas to get you started:
+My career path has focused on building scalable, accessible and user-friendly web applications. I've consistently delivered projects that prioritise performance and security. I'm particularly interested in System Design and Web Performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I enjoy spending time in nature through hiking or biking. I'm also an avid reader. Whether you want to discuss system design trade-offs, share a hiking or book recommendation, or just say hello, feel free to reach out.
+
+Programming Languages: JavaScript, TypeScript, Python, SQL
+
+Technologies & Tools: React, React Native, NextJs, Node.js, HTML/CSS, Docker, Git, CI/CD, Jest, PostgreSQL, MongoDB, Agile, Scrum, TDD, Webpack, Babel, OAuth2, JWT, RESTful APIs, Jenkins, MySQL, JIRA
+
+Cloud: AWS, AWS Lambda, AWS S3, AWS SNS
+
+Methodologies: SCRUM, Agile, TDD, DDD
+
+Interests: System Design, Web Performance, Microservices
